@@ -21,11 +21,11 @@ node server.js
 
 ### CRUD - Creat Read Update Delete
 
-# POST :: http://localhost:4545/product/
-# GET :: http://localhost:4545/product/
-# GET :: http://localhost:4545/product/productId
-# PUT :: http://localhost:4545/product/productId
-# DELETE :: http://localhost:4545/product/productId
+#### POST :: http://localhost:4545/product/
+#### GET :: http://localhost:4545/product/
+#### GET :: http://localhost:4545/product/productId
+#### PUT :: http://localhost:4545/product/productId
+#### DELETE :: http://localhost:4545/product/productId
 
 
 ## App Info
