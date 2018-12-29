@@ -19,8 +19,6 @@ node server.js
 
 ## Deployment
 
-### CRUD - Creat Read Update Delete
-
 #### POST :: http://localhost:4545/product/
 #### GET :: http://localhost:4545/product/
 #### GET :: http://localhost:4545/product/productId
